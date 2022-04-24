@@ -1,5 +1,5 @@
 # Lifecycle-ActivitiesAndFragments
-A small android project which helps understand the lifecycle method callbacks of actvities and fragments.
+An android project which helps understand the lifecycle method callbacks of actvities and fragments.
 
 The app provides flows such as opening fragments over activities and vice verse. The user can observe what lifecycle callbacks are fired when user performs these flows.
 
